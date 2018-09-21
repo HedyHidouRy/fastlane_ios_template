@@ -1,0 +1,2 @@
+Device ID	Device Name
+bedfe2b7e2c1a1c00083a4e23064f30251791777	FirstName LastName iPhone 6 plus
